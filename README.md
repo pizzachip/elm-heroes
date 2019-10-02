@@ -1,12 +1,12 @@
 # Elm version of Angular's popular heroes
-If you have done the Angular IO [Tour of Heroes|https://angular.io/tutorial] exercise you will be familiar with this example that replicates in Elm the first 4 steps or so of that tutorial.
+If you have done the Angular IO Tour of Heroes https://angular.io/tutorial exercise you will be familiar with this example that replicates in Elm the first 4 steps or so of that tutorial.
 
 This beginner's example is designed to run with Elm Reactor and just scratches the surface of working with Elm.
 
 ## Getting Started
 It shouldn't take much to get going on this project.
 
-1. [Install Elm|https://guide.elm-lang.org/install.html] on your local machine.
+1. Install Elm https://guide.elm-lang.org/install.html on your local machine.
 
 2. Clone this repository. If you're unfamiliar with this process, you can just copy and paste the contents of the files into files of the same name and with the same data structure on your machine.
 
